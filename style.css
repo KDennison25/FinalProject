@@ -1,0 +1,43 @@
+h1 {
+    color: blue;
+}
+
+#question1 {
+font-weight: bold;
+}
+
+#question2 {
+    font-weight: bold;
+}
+
+#logo1 {
+    width: 200;
+    height: 200;
+}
+#question3 {
+    font-weight: bold;
+}
+#question4 {
+    font-weight: bold;
+}
+button {
+    background-color: black;
+    color: white;
+}
+
+#bonusques {
+    color: white; 
+    
+}
+
+#question5 {
+    font-weight: bold;
+}
+
+#PettyJoke {
+    color: blue;
+    font-size: 6px;
+    text-align: center;
+}
+
+ 
