@@ -9,7 +9,7 @@ hint1.onclick = function () {
 const answ1 = document.querySelector(`#correctAnsw1`)
 
 answ1.onclick = function () {
-    alert(`THE CORRECT ANSWER IS: \n MICHEAL JORDAN`)
+    alert(`THE CORRECT ANSWER IS: \n MICHAEL JORDAN`)
     answ1() = ""
 }
 
